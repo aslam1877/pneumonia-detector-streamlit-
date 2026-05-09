@@ -153,4 +153,4 @@ This tool is for **educational purposes only**. It is not a substitute for profe
 
 ## 👨‍💻 Author
 
-Abhishek Prajapati
+Aslam Shaikh
